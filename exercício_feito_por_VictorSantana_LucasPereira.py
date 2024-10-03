@@ -65,13 +65,6 @@ while True:
                         media_salario = soma_salario / soma_quantidade_salario
                         maior_idade = max(lista_idade_masculino, lista_idade_feminino )
                         menor_idade = min(lista_idade_masculino, lista_idade_feminino )
-
-
-
-
-
-
-
                          
                     limpa_terminal()
             case 2:
