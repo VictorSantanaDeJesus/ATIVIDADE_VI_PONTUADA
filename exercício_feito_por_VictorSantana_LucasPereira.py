@@ -2,7 +2,7 @@ import os
 import time
 from dataclasses import dataclass
 
-# DUPLA = 
+# DUPLA = Victor Santana e Lucas Pereira
 os.system("cls || clear")
 def limpa_terminal():
     os.system("cls || clear")
